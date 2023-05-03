@@ -1,0 +1,15 @@
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\bin\Debug\net7.0\CreatedCardConsole.exe
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\bin\Debug\net7.0\CreatedCardConsole.deps.json
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\bin\Debug\net7.0\CreatedCardConsole.runtimeconfig.json
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\bin\Debug\net7.0\CreatedCardConsole.dll
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\bin\Debug\net7.0\CreatedCardConsole.pdb
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.csproj.AssemblyReference.cache
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.AssemblyInfoInputs.cache
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.AssemblyInfo.cs
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.csproj.CoreCompileInputs.cache
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.dll
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\refint\CreatedCardConsole.dll
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.pdb
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\CreatedCardConsole.genruntimeconfig.cache
+D:\visual-studio-2022-projetos\CreatedCardConsole\CreatedCardConsole\obj\Debug\net7.0\ref\CreatedCardConsole.dll
